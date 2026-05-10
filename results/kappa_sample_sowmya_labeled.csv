@@ -1,0 +1,201 @@
+clip_name,utterance,face_emotion,face_confidence,voice_emotion,voice_confidence,text_emotion,text_confidence,meld_emotion,conflicting_pairs,incongruent,venkat_label,sowmya_label
+dia110_utt8,"Hey, y'know what you should do? You should take her back to the 1890's, when that phrase was last used.",sadness,0.9284,neutral,0.4721,sadness,0.5264,disgust,[],False,False,False
+dia233_utt10,"Yay, okay!",joy,0.9995,joy,0.9634,anger,0.3267,joy,[],False,False,False
+dia695_utt4,Damn it!,anger,0.6845,joy,0.5031,neutral,0.0,joy,[],False,False,False
+dia252_utt7,"Well I, I don't know. Why?",sadness,0.8111,neutral,0.5423,surprise,0.8886,neutral,['face-text'],True,True,False
+dia728_utt0,I just walked in the bathroom and saw Kathy naked! It was like torture!,sadness,0.8399,anger,0.8381,disgust,0.9287,anger,"['face-voice', 'face-text', 'voice-text']",True,True,True
+dia107_utt0,"Let it go, Ross.",fear,0.7915,anger,0.8918,anger,0.5304,neutral,['face-voice'],True,True,True
+dia105_utt0,No-no. We,anger,0.5811,joy,0.4836,surprise,0.9133,fear,[],False,False,False
+dia54_utt6,"You bet I am!  And to answer your earlier question, we’re straight-up gangster rap.",fear,0.9077,anger,0.482,neutral,0.8386,joy,['face-text'],True,True,False
+dia744_utt3,Do you want a date Saturday?,surprise,0.9107,anger,0.9879,neutral,0.5264,neutral,['face-voice'],True,True,True
+dia623_utt0,Ugh!,fear,0.4962,joy,0.9752,surprise,0.4689,disgust,[],False,False,True
+dia758_utt2,She broke my arm.,sadness,0.5372,anger,0.9004,anger,0.7272,anger,[],False,False,False
+dia623_utt18,"So you might say, it’s a magic ring.",neutral,0.6942,joy,0.634,neutral,0.9134,joy,"['face-voice', 'voice-text']",True,True,True
+dia872_utt2,"Well, at least she had the chance to leave a man at the altar...",joy,0.9933,joy,0.6865,neutral,0.6649,joy,"['face-text', 'voice-text']",True,True,True
+dia316_utt8,"What is the name of your roommate who is very, very sorry and would do anything",sadness,0.4752,joy,0.9072,sadness,0.4384,neutral,[],False,False,False
+dia589_utt3,"Well, y’know I’m wearing layers and it’s warm.",sadness,0.9711,joy,0.9887,neutral,0.888,neutral,"['face-voice', 'face-text', 'voice-text']",True,True,True
+dia354_utt17,You never know.,sadness,0.992,neutral,0.6874,sadness,0.3795,neutral,['face-voice'],True,True,True
+dia260_utt5,"Yeah listen so, I thought I was getting better, so on my way home today I stopped by this guitar store and",anger,0.8916,sadness,0.5536,neutral,0.5523,neutral,[],False,False,False
+dia943_utt0,"Okay, here’s batch 22.",sadness,0.8369,joy,0.8537,neutral,0.934,neutral,"['face-voice', 'face-text', 'voice-text']",True,True,True
+dia250_utt6,"Well okay, let this be a lesson to all of you, all right.",fear,0.6321,joy,0.5965,neutral,0.4816,neutral,[],False,False,False
+dia210_utt5,"Because Vincent, we were lovers.  For two years!",anger,0.5596,joy,0.8344,joy,0.6119,anger,[],False,False,False
+dia562_utt9,"Well, hello, Mrs. Ross!",fear,0.9858,joy,0.9843,joy,0.478,joy,['face-voice'],True,True,True
+dia226_utt3,"Y’know, I wish I could get him to open up a little bit, share some feelings.",joy,0.5443,sadness,0.9744,sadness,0.6911,sadness,[],False,False,False
+dia949_utt9,Kate Miller it is.,sadness,0.5464,joy,0.6039,neutral,0.6853,neutral,['voice-text'],True,True,True
+dia356_utt14,Because the kids need new shoes.,sadness,0.6239,neutral,0.5656,neutral,0.4561,neutral,[],False,False,False
+dia402_utt1,Let’s go watch it at your place.,neutral,0.3697,neutral,0.83,neutral,0.8086,neutral,[],False,False,False
+dia1005_utt13,"Oh, so you're saying you'd choose convenience over health?!",neutral,0.542,anger,0.5351,neutral,0.5867,disgust,[],False,False,False
+dia70_utt11,"You know, this isn't fair.",fear,0.94,joy,0.5432,anger,0.5043,anger,[],False,False,False
+dia930_utt2,"Yep. Hey, what do you say we make it a double feature?",sadness,0.5468,joy,0.8481,neutral,0.3713,neutral,[],False,False,False
+dia580_utt1,"Yes, if the presents are hidden south for the winter.",sadness,0.846,neutral,0.9163,neutral,0.5612,neutral,['face-voice'],True,True,False
+dia192_utt7,This is going in your book?,joy,0.6396,anger,0.8113,surprise,0.8409,surprise,"['face-voice', 'face-text', 'voice-text']",True,True,True
+dia46_utt5,Okay.,neutral,0.678,joy,0.5,anger,0.4304,neutral,[],False,False,False
+dia5_utt3,"Hey, I was doin' great before I found out about you. You think it's easy for me to see you with Julie?",neutral,0.54,anger,0.6995,surprise,0.4166,anger,[],False,False,False
+dia9_utt7,Joey! He’s working!  You would look,sadness,0.4904,joy,0.9371,neutral,0.4368,anger,[],False,False,True
+dia1015_utt5,No problem.,neutral,0.584,neutral,0.5007,neutral,0.5884,neutral,[],False,False,False
+dia102_utt0,"Wait a minute, hold it.  Johnson! Will you come in here a moment?",anger,0.4635,joy,0.8614,neutral,0.6357,neutral,['voice-text'],True,True,True
+dia457_utt11,"All right Miss Green, everything looks fine... Yep, I think we're starting to see some real progress here.",sadness,0.9896,neutral,0.9192,neutral,0.8325,neutral,"['face-voice', 'face-text']",True,True,True
+dia646_utt1,Oh my God! This is it!   I really hope it’s you!,surprise,0.6739,joy,0.895,surprise,0.867,joy,"['face-voice', 'voice-text']",True,True,False
+dia761_utt4,"OK, now I'm gonna kick some ass.",neutral,0.5276,joy,0.7692,anger,0.9033,anger,['voice-text'],True,True,True
+dia1016_utt10,"Hey Rach, the tampons here are only a penny. Let’s stock up.",sadness,0.6593,joy,0.8255,neutral,0.6091,joy,"['face-voice', 'face-text', 'voice-text']",True,True,True
+dia403_utt0,"Nah, Monica’s watching some cooking show. Come on, I don’t want to miss when they were skinny.",sadness,0.4547,joy,0.9798,neutral,0.5357,neutral,[],False,False,False
+dia428_utt1,"I-I wanna be with her,  I like her.",sadness,0.5423,joy,0.998,joy,0.7627,anger,[],False,False,False
+dia347_utt7,"Oh, my new Mom, who-who’s a big, fat abandoner!",surprise,0.9679,anger,0.97,surprise,0.8774,sadness,"['face-voice', 'voice-text']",True,True,True
+dia921_utt4,Oh. Ew! Ew! Ew! Ugh! Y’know what? This is too weird.,sadness,0.3746,joy,0.5454,disgust,0.9681,disgust,[],False,False,False
+dia260_utt4,"Ooh, you nailed the Old Lady!",sadness,0.4384,anger,0.4974,disgust,0.4822,surprise,[],False,False,True
+dia434_utt4,"On the other hand in um, in about seven months you’re gonna have something that you’re gonna love more than any guy you’ve ever gone out with.",neutral,0.8515,sadness,0.978,neutral,0.8488,neutral,"['face-voice', 'voice-text']",True,True,True
+dia956_utt9,"Okay, listen, I really like you.",fear,0.6288,joy,0.9445,joy,0.9706,neutral,"['face-voice', 'face-text']",True,True,True
+dia318_utt4,Love,joy,0.9598,joy,0.9605,joy,0.5523,neutral,[],False,False,False
+dia224_utt0,"So uh, what’s your name?",sadness,0.5305,neutral,0.819,surprise,0.5276,neutral,[],False,False,False
+dia839_utt12,And shame on you!,anger,1.0,anger,0.8991,disgust,0.7666,disgust,"['face-text', 'voice-text']",True,True,True
+dia828_utt12,"Well, you know, no suds, no save.",fear,0.376,joy,0.7268,neutral,0.5376,neutral,[],False,False,False
+dia145_utt4,"Oh, uh..",neutral,0.7121,joy,0.7971,neutral,0.7417,fear,"['face-voice', 'voice-text']",True,True,True
+dia58_utt14,I bet he can.,fear,0.8456,neutral,0.713,neutral,0.7655,neutral,"['face-voice', 'face-text']",True,True,True
+dia823_utt2,"Oh, well he's yummy. We did a little kissin'.",joy,0.6159,joy,0.8547,joy,0.6483,joy,[],False,False,False
+dia822_utt4,"No. They said you 'Weren't believable as a human being.' So, you can work on that.",sadness,0.9928,joy,0.6826,disgust,0.4268,joy,['face-voice'],True,True,True
+dia198_utt6,Yeah absolutely!,neutral,0.4592,joy,0.6964,neutral,0.8016,joy,['voice-text'],True,True,True
+dia832_utt4,Where were you?,anger,0.5559,joy,0.9939,surprise,0.5504,neutral,[],False,False,False
+dia188_utt3,"Peach pit. That night we, uh- we had-",anger,0.7213,neutral,0.6228,neutral,0.9263,neutral,"['face-voice', 'face-text']",True,True,True
+dia113_utt2,I didn't wanna leave him alone.,fear,0.8516,joy,0.5875,anger,0.3803,neutral,[],False,False,False
+dia962_utt4,"Nine months from now we can be here, having our own baby.",neutral,0.7026,sadness,0.6487,joy,0.8736,joy,"['face-voice', 'face-text', 'voice-text']",True,True,True
+dia184_utt13,I guess.,joy,0.9933,joy,0.6856,joy,0.9233,neutral,[],False,False,False
+dia107_utt4,Chandler? Do you promise to be good?,fear,0.4523,anger,0.66,surprise,0.7053,neutral,['voice-text'],True,True,True
+dia401_utt2,"But y'know, the ocean is right there.",neutral,0.9843,joy,0.4282,neutral,0.8466,neutral,[],False,False,False
+dia861_utt18,"Not just restaurants, from our house.",neutral,0.7215,neutral,0.6928,neutral,0.8858,neutral,[],False,False,False
+dia93_utt2,How's the hair?,surprise,0.8113,joy,0.58,surprise,0.5124,neutral,[],False,False,False
+dia410_utt0,"I'm just sayin', if I see one more picture of Ed Begley, Jr. in that",joy,0.9343,joy,0.6343,anger,0.4902,disgust,[],False,False,False
+dia21_utt1,"No, but it'll be OK, they're pretty cool, my brother's straight so. . .",sadness,0.9051,joy,0.8723,disgust,0.3995,neutral,['face-voice'],True,True,True
+dia735_utt1,"Oh, well I tell Issac everything.",neutral,0.8353,joy,0.4277,neutral,0.464,neutral,[],False,False,False
+dia135_utt7,"Oh, and there was a baby in it.",fear,0.7461,neutral,0.478,surprise,0.8411,neutral,['face-text'],True,True,True
+dia246_utt12,"That’s okay, I’m cool over here. I’ll catch up with you later, Joey.",neutral,0.7853,joy,0.5781,neutral,0.7074,neutral,[],False,False,False
+dia816_utt0,"I mean, I realize that his feelings may never completely go away, but",sadness,0.8551,joy,0.6402,neutral,0.8453,sadness,"['face-voice', 'face-text', 'voice-text']",True,True,True
+dia897_utt3,"Okay, y'know what, I have to go have dinner with my son, can I trust that when you see Phoebe, you will tell her.",sadness,0.5641,neutral,0.7616,fear,0.4652,neutral,[],False,False,False
+dia80_utt7,"We got the grant. Three years, all expenses paid.",sadness,0.9779,joy,0.9422,joy,0.4512,joy,['face-voice'],True,True,True
+dia165_utt1,"Well, you’re amazing.",neutral,0.5388,joy,0.8621,surprise,0.806,joy,['voice-text'],True,True,False
+dia98_utt0,"All right, I just got changed in thirty seconds so you can be alone with him. You'd better go for it.",anger,0.9718,anger,0.9154,neutral,0.4688,anger,[],False,False,False
+dia6_utt9,You fell asleep!!,sadness,0.9941,anger,0.983,surprise,0.5054,anger,['face-voice'],True,True,True
+dia833_utt4,"I mean come on, that is just noise!",sadness,0.7409,joy,0.87,anger,0.695,anger,"['face-voice', 'face-text', 'voice-text']",True,True,True
+dia132_utt7,"All right, all right, I’m coming over, and I’m bringing Chinese food.",sadness,0.3568,neutral,0.9553,neutral,0.6998,neutral,[],False,False,True
+dia29_utt7,You are not supposed to give people advice!,neutral,0.7904,anger,0.998,disgust,0.4131,anger,['face-voice'],True,True,True
+dia26_utt1,"Well, unfortunately, I don't get many callbacks so",anger,0.6114,neutral,0.9747,neutral,0.8058,neutral,"['face-voice', 'face-text']",True,True,True
+dia544_utt2,"No, they’re-they’re all true.",neutral,0.6814,joy,0.6046,neutral,0.9134,neutral,"['face-voice', 'voice-text']",True,True,True
+dia508_utt20,COME ON!!!!,neutral,0.5646,neutral,0.9814,neutral,0.0,anger,[],False,False,False
+dia108_utt2,Hey! Great advice on that Joey thing!,joy,0.8444,joy,0.9712,joy,0.5083,joy,[],False,False,False
+dia95_utt5,"Yeah, but they didn't ask me!",anger,0.4722,joy,0.7109,anger,0.3946,anger,[],False,False,False
+dia214_utt0,Oh my God! That’s David!,surprise,0.9954,anger,0.9964,surprise,0.9582,surprise,"['face-voice', 'voice-text']",True,True,True
+dia21_utt5,What's going on with you?,fear,0.9677,joy,0.6638,surprise,0.6582,surprise,"['face-voice', 'face-text', 'voice-text']",True,True,False
+dia236_utt5,"All right, look, you’re not really gonna buy that are you? Don’t you think you’ve embarrassed me enough for one day?",surprise,0.5318,neutral,0.6405,anger,0.5068,anger,[],False,False,False
+dia448_utt10,"So I guess I’ll just stumble across the hall and sleep with the first guy I find in there!""",neutral,0.6487,joy,0.973,anger,0.4289,anger,['face-voice'],True,True,True
+dia352_utt5,Good!,sadness,0.9653,joy,0.5619,neutral,0.0,joy,[],False,False,False
+dia520_utt6,It's just my knitting that's all!  Yes! I knit this. I'm very good.,sadness,0.694,joy,0.867,surprise,0.46,neutral,['face-voice'],True,True,False
+dia47_utt6,Maybe one of them will break away.,fear,0.4585,sadness,0.4676,neutral,0.8592,neutral,[],False,False,True
+dia245_utt4,"No-no-no, no!",sadness,0.5493,neutral,0.7518,fear,0.5004,fear,[],False,False,False
+dia6_utt6,Well you can let me in later.,sadness,0.5136,joy,0.9354,neutral,0.9027,neutral,['voice-text'],True,True,True
+dia110_utt4,"Well, I think it's perfect.",neutral,0.6442,joy,0.844,joy,0.5374,joy,['face-voice'],True,True,True
+dia188_utt3,"No you do—y'know what, you’re not gonna suck me into this.",joy,0.4889,joy,0.8962,disgust,0.4366,anger,[],False,False,False
+dia404_utt14,"Look, I can listen to the radio, huh?",sadness,0.36,neutral,0.955,neutral,0.9079,neutral,[],False,False,False
+dia79_utt1,Oh.,joy,0.9976,neutral,0.987,surprise,0.899,neutral,"['face-voice', 'face-text', 'voice-text']",True,True,True
+dia240_utt11,"An-an-anyway I-I just wanted to say that since I’m getting your brain when you leave the show, I was wondering if there was any tips you can give me",sadness,0.9996,neutral,0.5201,surprise,0.8808,neutral,['face-text'],True,True,False
+dia88_utt1,Good for you Pheebs!,sadness,0.5198,anger,0.9993,neutral,0.5381,joy,[],False,False,False
+dia11_utt10,Nooo! Nooooo! You lent me Monica's earrings?! I'm not allowed to borrow her stuff!,surprise,0.5248,anger,0.6998,anger,0.7879,anger,[],False,False,False
+dia948_utt14,This is kind of a classy place.,joy,0.9481,sadness,0.872,neutral,0.7174,neutral,"['face-voice', 'face-text', 'voice-text']",True,True,True
+dia272_utt0,and that was all before 10 o’clock.,fear,0.478,joy,0.4604,neutral,0.5681,neutral,[],False,False,False
+dia251_utt0,"Y'know what? I cannot do this with my left hand! Would you please, help me with this too?",sadness,0.6554,sadness,0.8746,fear,0.3344,anger,[],False,False,False
+dia632_utt7,It’s wrong.,sadness,0.6796,anger,0.8562,anger,0.4849,disgust,['face-voice'],True,True,True
+dia430_utt2,"Okay, stop-stop! Phoebe?!",sadness,0.9964,joy,0.6564,anger,0.8905,sadness,"['face-voice', 'face-text', 'voice-text']",True,True,True
+dia574_utt10,It happened in London.,anger,0.9156,neutral,0.9517,neutral,0.8027,neutral,"['face-voice', 'face-text']",True,True,True
+dia918_utt8,Not your name!,fear,0.9815,anger,0.9793,neutral,0.8299,sadness,"['face-voice', 'face-text', 'voice-text']",True,True,True
+dia199_utt6,Hey!,sadness,0.5965,neutral,0.9129,neutral,0.4196,surprise,[],False,False,True
+dia893_utt17,So I can do it?,neutral,0.5602,joy,0.9358,neutral,0.4428,joy,[],False,False,False
+dia85_utt0,"Oh yeah, sure.",sadness,0.6484,joy,0.6844,neutral,0.8327,neutral,"['face-voice', 'face-text', 'voice-text']",True,True,True
+dia682_utt5,He is so amazing.,neutral,0.7354,sadness,0.8993,surprise,0.8312,joy,"['face-voice', 'face-text', 'voice-text']",True,True,True
+dia138_utt3,What?!,anger,0.6682,joy,0.6055,surprise,0.8987,surprise,"['face-voice', 'face-text', 'voice-text']",True,True,True
+dia208_utt11,"I’m just saying that y’know, someday Ross is gonna meet somebody and…he’s gonna have his own life. Right?",joy,0.5206,sadness,0.9307,neutral,0.3764,sadness,[],False,False,False
+dia105_utt0,Hello Greg?,sadness,0.6038,joy,0.7382,neutral,0.794,neutral,"['face-voice', 'face-text', 'voice-text']",True,True,True
+dia201_utt1,What?!,surprise,0.3668,neutral,0.9987,surprise,0.9222,surprise,['voice-text'],True,True,True
+dia278_utt8,"I don’t know what it is, I just can’t take a good picture.",sadness,0.5157,joy,0.833,neutral,0.3356,sadness,[],False,False,False
+dia199_utt9,"Yeah, maybe.",sadness,0.9442,joy,0.9905,neutral,0.8089,sadness,"['face-voice', 'face-text', 'voice-text']",True,True,True
+dia99_utt8,"Well, the movie was great, dinner was great, and there’s nothing like a cool, crisp New York evening.",joy,0.9823,joy,0.6933,joy,0.6536,neutral,[],False,False,False
+dia392_utt6,"And I was gonna go over and say ‘hi!’ but then I figured, he doesn’t care if he looks like you.",joy,0.795,joy,0.994,neutral,0.3317,joy,[],False,False,False
+dia73_utt1,They don’t look any bigger than me!,anger,0.8017,joy,0.9482,neutral,0.8171,neutral,"['face-voice', 'face-text', 'voice-text']",True,True,True
+dia362_utt3,Oh. Look at you making up crap for me. Oh God!,sadness,0.9193,sadness,0.6985,anger,0.545,sadness,[],False,False,False
+dia156_utt1,Go!,anger,0.9996,anger,0.8176,anger,0.7892,anger,[],False,False,False
+dia107_utt11,No.,anger,0.7808,sadness,0.341,neutral,0.8299,neutral,['face-text'],True,True,True
+dia319_utt14,"I want to become the Ultimate Fighting Champion! It’s the most intense physical competition in the world, it’s banned in 49 states!",joy,0.9517,anger,0.8187,anger,0.4836,joy,['face-voice'],True,True,True
+dia352_utt1,"I know what time it is, but I'm looking at the WENUS and I'm not happy!...",joy,0.9998,anger,0.476,sadness,0.9865,anger,['face-text'],True,True,True
+dia31_utt9,It's a long story but the things    you just said really made my day!,sadness,0.5127,neutral,0.3662,neutral,0.4007,joy,[],False,False,False
+dia740_utt10,"Okay look, Monica came here for some memories and damnit, we’re gonna give her some!",neutral,0.2846,sadness,0.9508,anger,0.5096,neutral,[],False,False,False
+dia96_utt0,"No, I’m sorry. It’s just my foot itches like crazy.",sadness,1.0,neutral,0.8456,sadness,0.5975,neutral,['face-voice'],True,True,True
+dia102_utt1,"Yeah, she was bald, she’s not now.",sadness,0.7807,anger,0.8633,neutral,0.8123,neutral,"['face-voice', 'face-text', 'voice-text']",True,True,True
+dia63_utt13,"No, actually I thought about it when, when we were going out.",neutral,0.5127,joy,0.5094,neutral,0.8304,neutral,[],False,False,False
+dia649_utt19,"Ah… Hey, so this roommate of yours…is he good looking?",neutral,0.8072,neutral,0.898,joy,0.5983,joy,[],False,False,False
+dia806_utt3,Oh hey! You got my parent’s gift!,sadness,0.7066,joy,0.9886,joy,0.8565,joy,"['face-voice', 'face-text']",True,True,True
+dia483_utt3,"Hey, you know our phone's not working?",sadness,0.4786,joy,0.4138,surprise,0.2742,surprise,[],False,False,False
+dia406_utt3,"Phoebe, woo!",fear,0.5876,neutral,0.8657,neutral,0.0,joy,[],False,False,False
+dia83_utt0,"Well, my apartment isn’t there anymore, because I drank it.",joy,0.8186,neutral,0.9405,disgust,0.5467,neutral,['face-voice'],True,True,True
+dia279_utt2,I’m gonna go down there and teach that guy a lesson.,anger,0.5198,joy,0.4646,disgust,0.4008,anger,[],False,False,False
+dia707_utt1,"Wait a minute, open up your hand; let me take a look.",sadness,0.95,joy,0.8232,neutral,0.8316,neutral,"['face-voice', 'face-text', 'voice-text']",True,True,True
+dia183_utt3,Hey.,sadness,0.913,neutral,0.5635,joy,0.4852,neutral,[],False,False,False
+dia652_utt0,God. I feel violated.,sadness,0.9989,joy,0.9981,anger,0.9477,disgust,"['face-voice', 'face-text', 'voice-text']",True,True,True
+dia992_utt12,Okay.,fear,0.4341,neutral,0.6686,neutral,0.5707,neutral,[],False,False,False
+dia126_utt0,"Morning’s here! Sunshine is here! The sky is clear, the morning’s here! The morning’s here!",sadness,1.0,sadness,0.4792,neutral,0.8478,joy,['face-text'],True,True,True
+dia64_utt12,"We are going to have a legitimate member of the clergy! And when I say legitimate I mean, gay and in control of his saliva!",anger,0.8183,joy,0.4278,neutral,0.6671,neutral,['face-text'],True,True,True
+dia736_utt10,Okay?,anger,0.9067,neutral,0.6334,anger,0.4568,fear,['face-voice'],True,True,True
+dia366_utt13,I'm not fine. Here she comes.,sadness,0.9897,anger,0.851,neutral,0.6184,fear,"['face-voice', 'face-text', 'voice-text']",True,True,True
+dia84_utt2,I’m not gonna marry Chandler!,fear,0.4143,sadness,0.5282,surprise,0.8182,anger,[],False,False,True
+dia671_utt11,No idea!,sadness,0.4936,joy,0.9278,surprise,0.4203,surprise,[],False,False,False
+dia151_utt0,"Oh, ew!",neutral,0.6283,neutral,0.9811,neutral,0.6662,disgust,[],False,False,False
+dia5_utt4,"No, please.",anger,0.4412,joy,0.9465,disgust,0.3813,neutral,[],False,False,False
+dia177_utt8,"Oh, it’s just not the right time.",sadness,0.8584,anger,0.9999,neutral,0.5316,sadness,['face-voice'],True,True,True
+dia1028_utt1,He was my first client when I became a party planner.,joy,0.9975,neutral,0.5396,joy,0.8359,neutral,[],False,False,False
+dia44_utt11,I forgot my paper.,neutral,0.7909,neutral,0.9806,neutral,0.3522,neutral,[],False,False,False
+dia261_utt4,Done!,sadness,0.9585,anger,0.868,neutral,0.8937,joy,"['face-voice', 'face-text', 'voice-text']",True,True,True
+dia1007_utt1,"Well, I lost.",neutral,0.5717,neutral,0.6189,sadness,0.6565,sadness,['voice-text'],True,True,True
+dia336_utt4,What?,fear,0.5336,neutral,0.5297,surprise,0.9222,surprise,[],False,False,False
+dia226_utt4,"Yeah, sure.  All right, whose court is the ball in now?",sadness,0.3246,neutral,0.8625,neutral,0.8737,neutral,[],False,False,False
+dia266_utt10,The physical act of love.,sadness,0.4013,joy,0.6963,disgust,0.4811,joy,[],False,False,False
+dia841_utt20,"Yeah, it’s beautiful.",joy,0.9999,joy,0.9049,joy,0.9485,neutral,[],False,False,False
+dia474_utt15,"I mean, I get all those presents  without having to talk to people I don’t even like!",joy,0.9955,anger,0.9317,disgust,0.771,joy,"['face-voice', 'face-text', 'voice-text']",True,True,True
+dia508_utt6,Is there a problem?,sadness,0.6858,neutral,0.7531,neutral,0.5617,neutral,['face-voice'],True,True,True
+dia105_utt10,Y’know what Greg?,fear,0.6282,joy,0.5739,surprise,0.2738,anger,[],False,False,False
+dia111_utt7,"Don’t worry about that man, that happens.",joy,0.9683,joy,0.6287,fear,0.5429,neutral,[],False,False,False
+dia986_utt15,"Now, enough of us know that we can just tell them that we know!",joy,0.4399,anger,0.9988,neutral,0.9193,neutral,['voice-text'],True,True,True
+dia296_utt20,"So, how ya doin?",fear,0.8463,joy,0.5876,surprise,0.6971,neutral,['face-text'],True,True,True
+dia771_utt6,"Felicity and I, we’re watching",sadness,0.8065,joy,0.6371,neutral,0.2701,neutral,['face-voice'],True,True,True
+dia735_utt16,Right.,anger,0.9979,joy,0.8396,neutral,0.7348,neutral,"['face-voice', 'face-text', 'voice-text']",True,True,True
+dia809_utt0,Yes!,joy,0.9997,joy,0.9845,anger,0.5302,joy,[],False,False,False
+dia955_utt0,What one? You wanted him to invite you to the party and he did it!,joy,0.5994,anger,0.715,anger,0.4597,surprise,[],False,False,False
+dia173_utt17,I-I am going to,sadness,0.4236,anger,0.9236,neutral,0.7307,neutral,['voice-text'],True,True,True
+dia214_utt7,: Yeah!,neutral,0.4071,neutral,0.9545,neutral,0.8142,joy,[],False,False,False
+dia97_utt1,"Wait no, honey, honey throw it to me, throw it to me.",sadness,0.9995,joy,0.9593,anger,0.9094,neutral,"['face-voice', 'face-text', 'voice-text']",True,True,True
+dia114_utt3,"No-no-no-no-no-no-no-no… It’s okay, I mean I—look Rach, I know I scared you off with that whole Naked Thursday’s thing, but we don’t have to do that!",sadness,0.7754,neutral,0.4127,fear,0.5808,neutral,[],False,False,False
+dia992_utt11,Uh-huh.,anger,0.4321,neutral,0.9996,fear,0.3262,neutral,[],False,False,False
+dia11_utt4,"Rachel Karen Green, where's the other earring?!",neutral,0.9135,sadness,0.5451,neutral,0.7727,anger,[],False,False,False
+dia64_utt0,"So, you stole my joke, and you stole my money.",anger,0.9861,anger,0.8256,anger,0.7278,anger,[],False,False,False
+dia84_utt0,What’s wrong with you?,sadness,0.5509,neutral,0.7197,neutral,0.7755,anger,[],False,False,False
+dia560_utt5,Thanks sweetheart. Give me a little sugar here.  Okay.,sadness,0.8482,joy,0.46,joy,0.6404,joy,['face-text'],True,True,True
+dia85_utt2,No way!,fear,0.4105,joy,0.6578,anger,0.6438,anger,['voice-text'],True,True,True
+dia49_utt13,"Yeah, I can say that I have a conference and you can say you have a chef thing.",joy,0.8781,neutral,0.6242,neutral,0.9389,neutral,"['face-voice', 'face-text']",True,True,True
+dia21_utt1,"I mean he's got the monocle, he's got the top hat...",neutral,0.473,neutral,0.9199,neutral,0.6205,neutral,[],False,False,False
+dia531_utt9,About paleontology.,anger,0.3643,neutral,0.9643,surprise,0.7071,neutral,['voice-text'],True,True,True
+dia221_utt0,"Hi, remember us?",anger,0.8378,joy,0.7763,neutral,0.4873,neutral,['face-voice'],True,True,True
+dia853_utt14,Okay Ross!  Please don’t die!,fear,0.5209,neutral,0.4102,fear,0.4298,anger,[],False,False,False
+dia85_utt8,What are you talking about?!,fear,0.4651,anger,0.4863,surprise,0.7185,surprise,[],False,False,False
+dia241_utt10,Wow!,joy,1.0,neutral,0.8047,surprise,0.9693,surprise,"['face-voice', 'face-text', 'voice-text']",True,True,True
+dia216_utt2,Yeah.,joy,0.9958,joy,0.9847,neutral,0.7496,neutral,"['face-text', 'voice-text']",True,True,True
+dia498_utt1,Let’s try a look…of far off…wonderment.,sadness,0.6676,anger,0.7573,neutral,0.6218,neutral,"['face-voice', 'face-text', 'voice-text']",True,True,True
+dia192_utt0,"Well, the old lady died.",neutral,0.6734,joy,0.5951,sadness,0.9198,sadness,['face-text'],True,True,False
+dia418_utt12,I’m 33.,fear,0.3676,neutral,0.8043,neutral,0.6417,neutral,[],False,False,True
+dia127_utt0,"All right buddy, time to roll over.",sadness,0.7609,joy,0.9303,neutral,0.8154,neutral,"['face-voice', 'face-text', 'voice-text']",True,True,True
+dia724_utt5,Waaay too special.,fear,0.7086,anger,0.4527,neutral,0.3813,neutral,[],False,False,False
+dia653_utt4,"Last time I do that, I promise.",sadness,0.4214,neutral,0.9579,neutral,0.8463,neutral,[],False,False,False
+dia747_utt0,Can I ask you something? Have you ever had a guy have a crush on you?,sadness,0.8542,joy,0.746,surprise,0.508,neutral,['face-voice'],True,True,True
+dia908_utt8,"Y’know, there’s",neutral,0.9993,sadness,0.9137,neutral,0.8087,neutral,"['face-voice', 'voice-text']",True,True,True
+dia445_utt3,"All right here he comes. I’m gonna do this, I’m gonna tell him, I’m gonna be strong.",fear,0.4622,neutral,0.5398,neutral,0.4937,fear,[],False,False,False
+dia843_utt9,No! No it’s not! It’s not gonna be okay! It sucks! No swing band! No lilies!,neutral,0.9963,anger,0.6449,disgust,0.8451,sadness,"['face-voice', 'face-text', 'voice-text']",True,True,True
+dia1026_utt12,"I'm sorry, I think that you just misunderstood her.",neutral,0.5369,neutral,0.4725,sadness,0.684,sadness,[],False,False,False
+dia199_utt8,"Y’know, I know that I said that I am totally okay with Ross getting married, but as it turns out, I don’t think I’m handling it all that well.",sadness,0.808,sadness,0.857,neutral,0.6971,sadness,"['face-text', 'voice-text']",True,True,False
+dia11_utt7,"Well, what am I going to tell Monica? She wants to wear them tonight!",fear,0.4305,anger,0.9967,neutral,0.3103,fear,[],False,False,False
+dia140_utt12,"Y'know I mean I-I-I'm an actor, I don't have the discipline that takes, y'know?",fear,0.5457,joy,0.7891,disgust,0.4928,sadness,[],False,False,False
+dia613_utt7,"Oh, you Americans always butcher the French language.",joy,0.8838,joy,0.7998,disgust,0.7374,neutral,"['face-text', 'voice-text']",True,True,True
+dia40_utt10,"Okay, you go do it! I’ll come back to that set! I’ll meet more actors! I’ll meet ‘em all!",fear,0.8312,joy,0.5338,neutral,0.8857,joy,['face-text'],True,True,True
