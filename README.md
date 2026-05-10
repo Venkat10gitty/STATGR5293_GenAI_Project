@@ -333,6 +333,32 @@ MELD consists entirely of scripted performances from a TV show. The out-of-distr
 
 ---
 
+## Troubleshooting
+
+**sklearn version error when loading scaler:**
+pip install scikit-learn==1.6.1
+
+**SpeechBrain GPU tensor error on Colab:**
+Add .detach().cpu().numpy() after out_prob tensor operations
+
+**Gradio event loop conflict when relaunching:**
+Call gr.close_all() and sleep(3) before launching new instance
+
+**DeepFace tf-keras missing:**
+pip install tf-keras
+
+**ElevenLabs model deprecated error:**
+Use eleven_turbo_v2_5 — not eleven_monolingual_v1
+
+**Python version incompatibility:**
+Use Python 3.11 via conda — 3.12 and 3.13 break SpeechBrain
+
+**QLoRA response without JSON curly braces:**
+Parser handles this automatically with 3-tier fallback
+
+**Colab session expires mid-run:**
+All files saved to Google Drive — rerun from any cell safely
+
 ## Resources
 
 Find our presentation here: https://docs.google.com/presentation/d/1KBzXSHHOGGxY-chvKvqM9iDrFnUO5gND/edit?usp=sharing
