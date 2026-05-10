@@ -1,0 +1,75 @@
+{
+  "axis1_modality": {
+    "Face only": {
+      "f1": 0.822,
+      "auroc": 0.7474
+    },
+    "Voice only": {
+      "f1": 0.8137,
+      "auroc": 0.6574
+    },
+    "Text only": {
+      "f1": 0.7958,
+      "auroc": 0.7041
+    },
+    "Face+Voice": {
+      "f1": 0.8275,
+      "auroc": 0.8122
+    },
+    "Face+Text": {
+      "f1": 0.8383,
+      "auroc": 0.8297
+    },
+    "Voice+Text": {
+      "f1": 0.814,
+      "auroc": 0.7724
+    },
+    "All 3 modalities": {
+      "f1": 0.9003,
+      "auroc": 0.9339
+    },
+    "All 3 + MAS (ours)": {
+      "f1": 0.8937,
+      "auroc": 0.9203
+    }
+  },
+  "axis2_finetuning": {
+    "B1_vader": 0.3038,
+    "B2_voice": 0.8055,
+    "B4_majority": 0.807,
+    "MLP": 0.8997,
+    "CIDF_QLoRA": 0.9935
+  },
+  "axis3_mas": {
+    "without_mas": 0.8958,
+    "with_mas": 0.9012,
+    "delta": 0.0055
+  },
+  "axis4_conflict_type": {
+    "congruent": {
+      "n": 846,
+      "f1": 0.0,
+      "accuracy": 0.7187
+    },
+    "face-voice": {
+      "n": 499,
+      "f1": 0.9473,
+      "accuracy": 0.8998
+    },
+    "face-text": {
+      "n": 218,
+      "f1": 0.9519,
+      "accuracy": 0.9083
+    },
+    "voice-text": {
+      "n": 239,
+      "f1": 0.9354,
+      "accuracy": 0.8787
+    },
+    "multi-conflict": {
+      "n": 813,
+      "f1": 0.9818,
+      "accuracy": 0.9643
+    }
+  }
+}

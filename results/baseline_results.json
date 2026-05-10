@@ -1,0 +1,21 @@
+{
+  "B1_vader_text_only": {
+    "f1": 0.3038,
+    "precision": 0.7164,
+    "recall": 0.1928
+  },
+  "B2_voice_only": {
+    "f1": 0.8055,
+    "precision": 1.0,
+    "recall": 0.6744
+  },
+  "B4_majority_class": {
+    "f1": 0.807
+  },
+  "MLP_fusion_24d": {
+    "f1": 0.8997,
+    "precision": 0.8733,
+    "recall": 0.9276,
+    "auroc": 0.9291
+  }
+}

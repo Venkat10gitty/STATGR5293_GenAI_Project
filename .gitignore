@@ -1,0 +1,21 @@
+# Large data files
+data/meld_raw/
+data/meld_processed/
+*.mp4
+*.wav
+*.tar.gz
+
+# Large model files
+models/qlora_adapter/
+
+# Python
+__pycache__/
+*.pyc
+.env
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store

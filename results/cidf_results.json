@@ -1,0 +1,9 @@
+{
+  "model": "CIDF_QLoRA_Qwen2VL7B",
+  "f1": 0.9935,
+  "precision": 0.9927,
+  "recall": 0.9943,
+  "accuracy": 0.9912,
+  "auroc": 0.9895,
+  "failed_parse": 0
+}
